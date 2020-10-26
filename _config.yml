@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:          "In The Pipeline"
-description:    "a dashboard to check out up & running simulations"
+title:          "in The Pipeline"
+description:    "check out running projects"
 author:         "Andrea Gallegati"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
