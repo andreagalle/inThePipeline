@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Resources"
-author: "Paul Le"
+author: "FluBot"
 categories: resources
 tags: [documentation,sample]
 image: arctic-4.jpg
